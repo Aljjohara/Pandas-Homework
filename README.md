@@ -13,10 +13,6 @@ In this assignment, we will be accomplishing three main tasks:
 2. [Determine Success of Each Portfolio](#Conduct-Quantitative-Analysis)
 3. [Choose and Evaluate a Custom Portfolio](#Create-Custom-Portfolio)
 
----
-
-
-**File:** [Whale Analysis Starter Code](Starter_Code/whale_analysis.ipynb)
 
 ### 1. Prepare the Data
 
