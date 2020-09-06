@@ -54,7 +54,7 @@ We analyzed the data to see if any of the portfolios outperform the stock market
 2. When we Constructed a correlation table for the algorithmic, whale, and S&P 500 returns, we found that Algo2 is most closely mimicing the S&P as it has the highest correlation value, then Soros Fund Management. 
 
 
-3. After plotting a rolling beta between BERKSHIRE HATHAWAY INC portfolio returns and S&P 500 returns,we can see that the portfolio seem sensitive to movements in the S&P , because the beta plot has a positive trend (mostly greater than 1).
+3. After plotting a rolling beta between BERKSHIRE HATHAWAY INC portfolio returns and S&P 500 returns, we can see that the portfolio seem sensitive to movements in the S&P , because the beta plot has a positive trend (mostly greater than 1).
 
 
 ### Plot Sharpe Ratios
