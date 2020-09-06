@@ -9,9 +9,9 @@ In this code, We created a tool (an analysis notebook) that analyzes and visuali
 
 In this assignment, we will be accomplishing three main tasks:
 
-1. [Read in and Wrangle Returns Data](#Prepare-the-Data)
-2. [Determine Success of Each Portfolio](#Conduct-Quantitative-Analysis)
-3. [Choose and Evaluate a Custom Portfolio](#Create-Custom-Portfolio)
+1. [Read in and Wrangle Returns Data]
+2. [Determine Success of Each Portfolio]
+3. [Choose and Evaluate a Custom Portfolio]
 
 
 ### 1. Prepare the Data
