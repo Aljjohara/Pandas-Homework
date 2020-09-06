@@ -18,7 +18,7 @@ In this assignment, we will be accomplishing three main tasks:
 
 First, we read and clean several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historical prices. 
 
-1. We Use Pandas to read in each of the [CSV files](Starter_Code/Resources) as a DataFrame and convert the dates to a `DateTimeIndex`.
+1. We Use Pandas to read in each of the CSV files as a DataFrame and convert the dates to a `DateTimeIndex`.
 
 2. We detect and remove null values.
 
