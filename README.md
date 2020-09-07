@@ -37,14 +37,16 @@ We analyzed the data to see if any of the portfolios outperform the stock market
 #### Performance Analysis
 
 1. After we calculated cumulative returns, we found that Algo 1 and BERKSHIRE HATHAWAY INC outperforms the S&P 500
-
+ ![cumulative.png](Images/cumulative.png)
 #### Risk Analysis
 
 1. After we created a box plot for each of the returns, we found that Tiger Global Management LLC has the largest spread, whereas Paulson & CO.INC has the smallest spread.
 
+ ![risk_box.png](Images/risk_box.png)
 
 2. After we Calculated the standard deviation for each portfolio, we found that BERKSHIRE HATHAWAY INC and TIGER GLOBAL MANAGEMENT LLC are riskier than S&P 500 because they have higher STDs than S&P 500
 
+ ![risk_analysis.png](Images/risk_analysis.png)
 
 #### Rolling Statistics
 
