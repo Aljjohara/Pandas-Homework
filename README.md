@@ -66,13 +66,26 @@ Investment managers and their institutional investors look at the return-to-risk
 
 ### Create Custom Portfolio
 
-Harold is ecstatic that you were able to help him prove that the algorithmic trading portfolios are doing so well compared to the market and whales portfolios. However, now you are wondering whether you can choose your own portfolio that performs just as well as the algorithmic portfolios. Investigate by doing the following:
+- We decided to create our own portfolio that performs just as well or even better than the algorithmic portfolios. To do this, we have done the following:
 
-1. Visit [Google Sheets](https://docs.google.com/spreadsheets/) and use the in-built Google Finance function to choose 3-5 stocks for your own portfolio.
+1. Visited [Google Sheets](https://docs.google.com/spreadsheets/) and use the in-built Google Finance function to choose 3-5 stocks for your own portfolio.
 
-2. Download the data as CSV files and calculate the portfolio returns.
+2. We chose NVIDIA, MSCI, and Amazon.
 
-3. Add your portfolio returns to the DataFrame with the other portfolios and rerun the analysis. How does your portfolio fair?
+3. We download the data as CSV files and calculate the portfolio returns.
 
+4. We added our portfolio returns to the DataFrame with the other portfolios and rerun the analysis.
+
+
+
+### Analysis
+- My portfolio outperforms others as indicated by the cumulative return and the sharpe ratios.
+- Algo 2 and Soros are the most correlated with the market. Whereas Algo 1 is the least correlated.
+- My portfolio is ranked the fourth correlated portfolio with the market.
+- My portfolio consists of three stocks:
+   - NVIDIA: is the least correlated with the S&P500 and the most with my portfolio
+   - MSCI: is the most correlated with S&P500 and the least with my portfolio
+   - Amazon: is the median correlated stock with both my portfolio and S&P500
+ - The combination of the three stocks (NVIDIA, MSCI, Amazon) makes my portfolio the best performing portfolio among the other given portfolios.
 
 
