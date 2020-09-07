@@ -76,6 +76,7 @@ Investment managers and their institutional investors look at the return-to-risk
 
 4. We added our portfolio returns to the DataFrame with the other portfolios and rerun the analysis.
  ![heatmap.png](Images/heatmap.png)
+ ![barplot.png](Images/barplot.png)
 
 
 ### Analysis
