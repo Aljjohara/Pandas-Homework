@@ -75,7 +75,11 @@ Investment managers and their institutional investors look at the return-to-risk
 3. We download the data as CSV files and calculate the portfolio returns.
 
 4. We added our portfolio returns to the DataFrame with the other portfolios and rerun the analysis.
+
+ ![dataframe.png](Images/dataframe.png)
+ 
  ![heatmap.png](Images/heatmap.png)
+ 
  ![barplot.png](Images/barplot.png)
 
 
