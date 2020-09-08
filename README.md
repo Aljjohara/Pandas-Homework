@@ -59,7 +59,10 @@ We analyzed the data to see if any of the portfolios outperform the stock market
 
 3. After plotting a rolling beta between BERKSHIRE HATHAWAY INC portfolio returns and S&P 500 returns, we can see that the portfolio seem sensitive to movements in the S&P , because the beta plot has a positive trend (mostly greater than 1).
 
-![rolling_beta.png](Images/rolling beta.png)
+![rolling_beta.png](Images/rolling_beta.png)
+
+
+
 
 ### Plot Sharpe Ratios
 
