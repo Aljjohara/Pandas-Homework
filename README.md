@@ -77,7 +77,7 @@ Investment managers and their institutional investors look at the return-to-risk
 
 - We decided to create our own portfolio that performs just as well or even better than the algorithmic portfolios. To do this, we have done the following:
 
-1. Visited [Google Sheets](https://docs.google.com/spreadsheets/) and use the in-built Google Finance function to choose 3-5 stocks for your own portfolio.
+1. Visited [Google Sheets](https://docs.google.com/spreadsheets/) and used the in-built Google Finance function to choose 3 stocks for my own portfolio.
 
 2. We chose NVIDIA, MSCI, and Amazon.
 
